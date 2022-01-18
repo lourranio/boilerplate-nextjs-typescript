@@ -14,7 +14,8 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Projeto com <a href="https://nextjs.org">Next.js!</a>
+          Projeto Boilerplate com Typescript e{' '}
+          <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
