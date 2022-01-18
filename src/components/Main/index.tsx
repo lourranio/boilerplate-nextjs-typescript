@@ -1,6 +1,6 @@
 const Main = () => (
   <div>
-    <h1>boilerplate</h1>
+    <h1>Component boilerplate main</h1>
   </div>
 )
 
